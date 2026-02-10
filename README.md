@@ -1,4 +1,4 @@
-# REST API with Node.js, Prisma and PostgreSQL
+# REST API with Node.js, Sequelize and PostgreSQL
 
 Build a complete products and categories REST API with Node.js, Express, Sequelize and PostgreSQL.
 
